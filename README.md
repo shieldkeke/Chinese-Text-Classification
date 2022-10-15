@@ -10,12 +10,18 @@ Chinese Text Classification With MacBERT， with simply 5 files
 项目的目录如下：
 
 ├─pretrained
-		├─project_data
-		├─result
-		│  ├─logs
-		│  │  └─medical-01
-		│  └─models
-		│      └─medical-01
+		
+├─project_data
+
+├─result
+
+│  ├─logs
+
+│  │  └─medical-01
+
+│  └─models
+
+│      └─medical-01
 
 
 
